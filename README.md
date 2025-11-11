@@ -1,10 +1,10 @@
-# 🍷 Wine Quality Classification 
+# Wine Quality Classification 
 
 This project develops and compares multiple **supervised machine learning models** to predict wine quality based on physicochemical properties. It explores how feature selection, hyperparameter tuning, and imbalance handling techniques affect predictive performance and interpretability.
 
 ---
 
-## 🧠 Objectives
+## Objectives
 
 * Build, tune, and evaluate multiple models for wine quality prediction.
 * Handle class imbalance using **SMOTE**, **undersampling**, and **class weighting**.
@@ -13,7 +13,7 @@ This project develops and compares multiple **supervised machine learning models
 
 ---
 
-## ⚙️ Models Implemented
+## Models Implemented
 
 * **Logistic Regression** (L1, L2, weighted, SMOTE, undersampled)
 * **K-Nearest Neighbors (KNN)** (with/without SMOTE and undersampling)
@@ -23,7 +23,7 @@ This project develops and compares multiple **supervised machine learning models
 
 ---
 
-## 🧩 Dataset
+## Dataset
 
 * **Source:** [UCI Machine Learning Repository – Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/wine+quality)
 * **Samples:** ~5,000
@@ -32,7 +32,7 @@ This project develops and compares multiple **supervised machine learning models
 
 ---
 
-## 📊 Workflow Overview
+## Workflow Overview
 
 1. **Data Loading & Exploration**
 
@@ -57,7 +57,7 @@ This project develops and compares multiple **supervised machine learning models
 
 ---
 
-## 🧾 Results Summary
+## Results Summary
 
 * **Best Overall Model:** K-Nearest Neighbors (no resampling)
 * **Key Features:** *alcohol*, *volatile_acidity*, *chlorides*, *ph*, *volatile_acidity*, *free_sulfur_dioxide*, *total_sulfur_dioxide*
@@ -67,7 +67,7 @@ This project develops and compares multiple **supervised machine learning models
 
 ---
 
-## 🧮 Tools & Libraries
+## Tools & Libraries
 
 * **Python 3.12+**
 * **scikit-learn** – model training and evaluation
@@ -77,7 +77,7 @@ This project develops and compares multiple **supervised machine learning models
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 📁 wine-quality-ml
@@ -95,7 +95,7 @@ This project develops and compares multiple **supervised machine learning models
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Samuel Olatunde**
 Midwestern State University
