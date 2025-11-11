@@ -100,5 +100,3 @@ This project develops and compares multiple **supervised machine learning models
 **Samuel Olatunde**
 Midwestern State University
 ---
-
-Would you like me to make it slightly **shorter and GitHub-optimized** (more like a one-screen README with emojis and bullets only), or keep it as this structured academic version?
