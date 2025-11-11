@@ -80,7 +80,7 @@ This project develops and compares multiple **supervised machine learning models
 ## Repository Structure
 
 ```
-📁 wine-quality-ml
+📁 Predicting-Wine-Quality-
 │
 ├── notebooks/
 │   ├── logistic_regression.ipynb
