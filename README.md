@@ -49,7 +49,7 @@ This project develops and compares multiple **supervised machine learning models
    * SMOTE, Random Undersampling, or class weighting.
 5. **Feature Selection**
 
-   * Backward elimination or Permutation Importance (threshold = {0.01,0.25 ).
+   * Backward elimination or Permutation Importance (threshold = {0.01,0.25}.
 6. **Evaluation**
 
    * Metrics: Accuracy, Precision, Recall, Macro & Weighted F1-score.
